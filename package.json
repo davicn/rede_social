@@ -1,0 +1,19 @@
+{
+  "name": "rede_social",
+  "version": "1.0.0",
+  "description": "Rede social em Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davicn/rede_social.git"
+  },
+  "author": "Davi Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davicn/rede_social/issues"
+  },
+  "homepage": "https://github.com/davicn/rede_social#readme"
+}
